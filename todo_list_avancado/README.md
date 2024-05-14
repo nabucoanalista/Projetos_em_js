@@ -1,6 +1,6 @@
 # <div align="center">Todo List</div>
 
-![](https://github.com/nabucoanalista/portfolio-sites/blob/main/todo_list_avancado/2024-03-24-23-25-19.gif)
+![](https://github.com/nabucoanalista/Projetos_em_js/blob/main/todo_list_avancado/2024-03-24-23-25-19.gif)
 
 # <div align="center">Esclarecendo</div>
 
