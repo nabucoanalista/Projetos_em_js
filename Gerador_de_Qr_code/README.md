@@ -1,6 +1,6 @@
-# <div align="center">Clone site iphone</div>
+# <div align="center">Gerador de Qr code</div>
 
-![](https://github.com/nabucoanalista/portfolio-sites/blob/main/Gerador_de_Qr_code/apresentar.gif)
+![](https://github.com/nabucoanalista/Projetos_em_js/blob/main/Gerador_de_Qr_code/apresentar.gif)
 
 # <div align="center">Esclarecendo</div>
 
