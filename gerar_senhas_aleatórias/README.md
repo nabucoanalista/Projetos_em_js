@@ -1,6 +1,6 @@
 # <div align="center">Login / Cadastro</div>
 
-![](https://github.com/nabucoanalista/portfolio-sites/blob/main/gerar_senhas_aleatórias/2024-04-01-18-37-16.gif)
+![](https://github.com/nabucoanalista/Projetos_em_js/blob/main/gerar_senhas_aleatórias/2024-04-01-18-37-16.gif)
 
 # <div align="center">Esclarecendo</div>
 
